@@ -6,4 +6,4 @@ To install and run for Android :
 * npm install && react-native run-android
 
 ## Home
-<img src="https://github.com/FirasHmedi/Meteo/blob/master/Capture2.PNG" width="300" title="Home">
+<img src="https://github.com/FirasHmedi/Meteo/blob/master/Capture2.PNG" width="200" title="Home">
